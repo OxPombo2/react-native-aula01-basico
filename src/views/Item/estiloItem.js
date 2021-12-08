@@ -8,14 +8,14 @@ const estiloItem = StyleSheet.create({
         backgroundColor: '#fff8e7',
     },
     borda: {
-        backgroundColor: '#081a31',
+        backgroundColor: '#fff8e7',
         width: '80%',
-        height: '25%',
+        height: '18%',
         borderRadius: 10,
     },
     texto: {
         fontSize: 20,
-        color: '#FFFFFF',
+        color: '#000000',
         fontWeight: 'bold',
         textAlign: "center",
         padding: 10
@@ -27,16 +27,16 @@ const estiloItem = StyleSheet.create({
         marginRight: 40,
         borderRadius: 5,
         height: 40,
-        borderWidth: 2,
-        borderWidth: 2,
-        borderColor: '#e8f2e9',
-        backgroundColor: '#14417b',
+        borderWidth: 15,
+        borderWidth: 15,
+        borderColor: '#836953',
+        backgroundColor: '#836953',
         justifyContent: 'center',
         alignItems: 'center',
     },
     botaoTexto: {
         fontSize: 18,
-        color: '#FFFFFF',
+        color: '#000000',
         fontWeight: 'bold'
     },
 });

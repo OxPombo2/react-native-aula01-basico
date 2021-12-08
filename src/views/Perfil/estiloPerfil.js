@@ -10,7 +10,7 @@ backgroundColor: '#fff8e7',
 borda: {
 	backgroundColor: '#fff8e7',
 	width: '80%',
-	height: '25%',
+	height: '20%',
 	borderReadius: 10,
 },
 texto: {
@@ -18,7 +18,7 @@ texto: {
 	color: '#000000',
 	fontWeight: 'bold',
 	textAlign: "center",
-	padding: 10
+	padding: 10,
 },
 botaoContainer: {
 marginTop:20,
